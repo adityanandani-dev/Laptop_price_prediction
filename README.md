@@ -1,1 +1,3 @@
-# Laptop_price_prediction_model
+# Laptop Price Prediction
+
+A machine learning project to predict laptop prices using features like brand, RAM, processor, etc.
